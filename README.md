@@ -2,6 +2,8 @@ Tried to create a comprehensive resource for learning OOP in Python.
 
 Get started with OOP in Python by simply downloading and running these code examples.
 
+Simply download and run these code examples on any Python IDE, including the official Python IDLE, which can be downloaded from (https://www.python.org/downloads/)
+
 **Key Topics Covered:**
 
 - Class Creation and Instantiation: Learn how to define classes and create objects from them.

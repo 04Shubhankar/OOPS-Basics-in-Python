@@ -29,4 +29,4 @@ Simply download and run these code examples on any Python IDE, including the off
 13. Demonstrating_Multiple_Inheritance_Without_Super_Method.py
 14. Demonstrating_Single_Inheritance_With_Methods.py
 
-**As a fellow learner, I welcome suggestions and feedback to improve this repository.**
+**As a fellow learner, I welcome suggestions,feedback and pull requests to improve this repository.**
